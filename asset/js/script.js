@@ -40,5 +40,6 @@ window.addEventListener('load', () => {
         document.getElementById('showMsj').innerText = msj;
     }
 
-
+    /*En el boton que dice "click aca" muestra una ventana con una advertencia*/
+    /*Value retorna valores del valor de atributo de un area de texto. InnerText nos devuelve el texto interior del elemento*/
 });
